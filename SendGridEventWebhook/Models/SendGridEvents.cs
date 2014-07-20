@@ -15,7 +15,7 @@ namespace SendGridEventWebhook.Models
         [JsonProperty("smtp-id")] // switched to underscore for consistancy
         public string smtp_id { get; set; }
         public string sg_message_id { get; set; }
-        [JsonProperty("event")] // event is protected keyword
+        [JsonProperty("event")] // event is a protected keyword
         public string sendgrid_event { get; set; }
         public string type { get; set; }
         public IList<string> category { get; set; }
