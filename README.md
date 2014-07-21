@@ -1,6 +1,6 @@
-This code is not production ready. It is meant to help you integrate quickly with SendGrid when developing for ASP.NET/Azure. You will need to incorporate error handling and testing. 
+This code is not production ready. It is meant to help you integrate quickly with SendGrid when developing for ASP.NET/Microsoft Azure. You will need to incorporate error handling and testing. 
 
-A companion blog post is coming soon, which explains the usage of this code.
+The companion blog post, which explains the usage of this code can be found [here](http://sendgrid.com/blog/tracking-email-using-azure-sendgrid-event-webhook-part-1).
 
 ## Info & Help
 
